@@ -1,0 +1,11 @@
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\bin\Debug\HBaethgeA2_4SS.exe.config
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\bin\Debug\HBaethgeA2_4SS.exe
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\bin\Debug\HBaethgeA2_4SS.pdb
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.frmSplash.resources
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.frmMain.resources
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.Properties.Resources.resources
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.csproj.GenerateResource.cache
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.csproj.CoreCompileInputs.cache
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.exe
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.pdb
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_4SS\obj\Debug\HBaethgeA2_4SS.csproj.AssemblyReference.cache
