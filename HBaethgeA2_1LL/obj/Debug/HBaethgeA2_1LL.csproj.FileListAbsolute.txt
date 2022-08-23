@@ -1,0 +1,10 @@
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\bin\Debug\HBaethgeA2_1LL.exe.config
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\bin\Debug\HBaethgeA2_1LL.exe
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\bin\Debug\HBaethgeA2_1LL.pdb
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.frmA2_1LL.resources
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.Properties.Resources.resources
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.csproj.GenerateResource.cache
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.csproj.CoreCompileInputs.cache
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.exe
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.pdb
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 2 C#\HBaethgeA2_1LL\obj\Debug\HBaethgeA2_1LL.csproj.AssemblyReference.cache
