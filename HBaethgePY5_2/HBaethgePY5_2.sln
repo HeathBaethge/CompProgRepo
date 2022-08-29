@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HBaethgePY5_2", "HBaethgePY5_2.pyproj", "{4E4C6C4C-28AA-4DD0-BB7A-34C0A2A6542C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4C6C4C-28AA-4DD0-BB7A-34C0A2A6542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4C6C4C-28AA-4DD0-BB7A-34C0A2A6542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D8D761-DE33-4C25-817F-07D91B8AC2D8}
+	EndGlobalSection
+EndGlobal
