@@ -1,0 +1,32 @@
+﻿  bullet.cpp
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\bullet.cpp(26,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\bullet.cpp(27,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\bullet.cpp(43,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\bullet.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\bullet.cpp(55,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemy.cpp
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\enemy.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\enemy.cpp(24,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\enemy.cpp(30,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\enemy.cpp(31,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(60,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(64,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(208,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(208,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(545,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\main.cpp(827,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pickup.cpp
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(8,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(36,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(37,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(49,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(50,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(62,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(63,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\pickup.cpp(65,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGame.vcxproj -> C:\Users\codex\Desktop\Adv Comp Programming\Unit 3 C++\HBaethgeCPPA3_10\SDLGame\x64\Debug\SDLGame.exe
